@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashoka</h1>
 <h3 align="center">AI | Data Science | UI/UX | Web Development</h3>
 
-
-
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashutosh1919/master/assets/wall-e.gif" width="300"/>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
