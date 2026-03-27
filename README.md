@@ -3,15 +3,21 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh1919/master/assets/wall-e.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <!-- Core Languages & Tools -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,mysql,mongodb,docker,fastapi,flask,git,github,figma" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,mysql,mongodb,docker,fastapi,flask,git,github,figma" />
+  <!-- MLOps & Advanced Tools -->
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAGsHub-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM-AI-blue?style=for-the-badge"/>
 </p>
 
 ---
