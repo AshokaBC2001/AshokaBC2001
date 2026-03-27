@@ -1,18 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashoka</h1>
+<h3 align="center">AI | Data Science | UI/UX | Web Development</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Hello+Ashoka!;Testing+GitHub+Animation;AI+is+Cool+😎" />
 
-<!--
-**AshokaBC2001/AshokaBC2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,mysql,mongodb,docker,fastapi,flask,git,github,figma" />
+</p>
+
+---
+
+## About Me
+- 🎓 Final Year Data Science Undergraduate  
+- 🤖 Passionate about AI, Data Science & UI/UX  
+- 🧠 Building intelligent systems with real-world impact  
+- 🎨 Combining AI with user-centered design  
+- ⚡ Skilled in using AI tools to work smarter and faster  
+
+---
+
+## 🧠 Skills
+- Programming Languages: Python, PHP, JavaScript
+- MLOps & Tools: MLflow, DVC, Apache Airflow, Docker, DAGsHub, Git
+- Web Development: HTML, CSS, SCSS, JavaScript, FastAPI, Flask
+- UI/UX Design: Figma, User Interface Design, User Experience Design
+- Data Visualization & BI: Power BI
+- Databases: MySQL, MongoDB
+
+---
