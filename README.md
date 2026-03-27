@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Hello+Ashoka!;Testing+GitHub+Animation;AI+is+Cool+😎" />
+
 <!--
 **AshokaBC2001/AshokaBC2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
